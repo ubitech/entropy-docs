@@ -6,7 +6,7 @@ Threats Profiles Management
 Add a new threat profile
 --------
 
-- In order to declare a new threat profile several consecutive steps have to be undertaken.
+- In order to declare a new xxxxx profile several consecutive steps have to be undertaken.
 
 - Initially the user must be login.
 
