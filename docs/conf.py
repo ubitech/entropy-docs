@@ -43,8 +43,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Mitigate Documentation'
-copyright = u'2017, Mitigate consortium'
+project = u'Entropy Documentation'
+copyright = u'2017, Entropy consortium'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
