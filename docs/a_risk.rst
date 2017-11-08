@@ -1,4 +1,4 @@
-Risk assessment walkthrough
+Entropy walkthrough
 ========
 
 Create Account
@@ -39,6 +39,9 @@ Logout
 - Upon successful logout the following screen will be presented.
 
 .. image:: assets/logout_2.png
+
+Reset password
+-------
 
 
 Support
