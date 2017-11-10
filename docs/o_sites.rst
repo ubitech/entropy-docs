@@ -1,8 +1,8 @@
 ============
-Site Management
+Streams
 ============
 
-Declaring a new site
+Visualize streams
 -----------------------
 - In order to declare a new site several consecutive steps have to be undertaken .
 - Initially the user must login.
@@ -30,7 +30,7 @@ Declaring a new site
 .. image:: assets/ss_4.png
 
 
-Edit a site
+Start/stop stream
 ----------------------
 
 - In order to edit a site several consecutive steps have to be undertaken .
@@ -56,7 +56,7 @@ Edit a site
 .. image:: assets/ss.png
 
 
-Delete an existing site
+Visualize stream graph
 ----------------
 
 - In order to delete a site several consecutive steps have to be undertaken .
@@ -76,12 +76,3 @@ Delete an existing site
 - Upon successful delete of a site, the list of sites will be update it.
 
 .. image:: assets/ds_2.png
-
-
-
-
-
-
-
-
-

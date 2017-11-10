@@ -1,8 +1,8 @@
 ========
-Vendors Management
+Register a new Building area
 ========
 
-Search the vendor list
+Register a new Building Area
 ------------------------
 
 - In order to search the vendor list several consecutive steps have to be undertaken .
@@ -23,7 +23,7 @@ Search the vendor list
 .. image:: assets/vl_3.png
 
 
-Add a vendor
+Edit a Building Area
 ------------
 - In add a vendor several consecutive steps have to be undertaken .
 - Initially the user must login.
@@ -38,7 +38,7 @@ Add a vendor
 
 .. image:: assets/ed_v.png
 
-- Provide vendor details in textbox area. 
+- Provide vendor details in textbox area.
 
 .. image:: assets/ed_v_1.png
 
@@ -50,7 +50,7 @@ Add a vendor
 
 .. image:: assets/ed_v_2.png
 
-Edit a vendor
+Delete Building Area
 ------------
 
 - In order to edit a vendor several consecutive steps have to be undertaken .
@@ -65,23 +65,3 @@ Edit a vendor
 - Press the “edit” button.
 
 .. image:: assets/ev_1.png
-
-Delete a vendor
-------------
-
-- In order to delete a vendor several consecutive steps have to be undertaken .
-- Initially the user must login.
-
-.. image:: assets/Log_4.png
-
-- Click on "Vendors" Menu-item.
-
-.. image:: assets/vl.png
-
-- Press on “delete” button on the desired vendor.
-
-.. image:: assets/dv.png
-
-- Upon successful delete of a vendor, the list of vendors will be update it.
-
-.. image:: assets/dv_2.png

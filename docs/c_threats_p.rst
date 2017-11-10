@@ -1,9 +1,9 @@
 ========
-Threats Profiles Management
+Account
 ========
 
 
-Add a new threat profile
+Update Profile
 --------
 
 - In order to declare a new xxxxx profile several consecutive steps have to be undertaken.
@@ -29,7 +29,7 @@ Add a new threat profile
 .. image:: assets/n_tp_4.png
 
 
-Delete a threat profile
+Reset password
 --------
 
 - In order to delete a threat profile several consecutive steps have to be undertaken.
@@ -40,7 +40,7 @@ Delete a threat profile
 
 - Click on "Threat Profile" menu-item.
 
-.. image:: assets/n_tp.png 
+.. image:: assets/n_tp.png
 
 - Press on “delete” button on the desired threat profile.
 
@@ -51,7 +51,7 @@ Delete a threat profile
 .. image:: assets/d_tp_3.png
 
 
-Edit a threat profile
+Disable Account
 --------
 
 - In order to edit a threat profile several consecutive steps have to be undertaken.
@@ -62,7 +62,7 @@ Edit a threat profile
 
 - Click on "Threat Profile" menu-item.
 
-.. image:: assets/n_tp.png 
+.. image:: assets/n_tp.png
 
 - Press on the “edit” button.
 
@@ -79,16 +79,3 @@ Edit a threat profile
 - Upon successful editing of a threat profile the list of threat profiles will be update it.
 
 .. image:: assets/ed_tp_5.png
-
-
-
-
-
-
-
-
-
-
-
-
-
