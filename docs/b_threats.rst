@@ -1,5 +1,5 @@
 ========
-Threat Management
+Dashboard
 ========
 
 Declaring a new Threat
@@ -31,11 +31,11 @@ Declaring a new Threat
 .. image:: assets/new_threat_5.png
 
 
-Edit a Threat   
+Edit a Threat
 --------
 - In order to edit a threat several consecutive steps  have to be undertaken.
 
-- Click on "Threats" menu-item. 
+- Click on "Threats" menu-item.
 
 .. image:: assets/edit_threat.png
 
@@ -43,7 +43,7 @@ Edit a Threat
 
 .. image:: assets/edit_threat_2.png
 
-- Apply the requirement changes in "Threat Edit" panel.  
+- Apply the requirement changes in "Threat Edit" panel.
 
 .. image:: assets/edit_threat_3.png
 
@@ -63,7 +63,7 @@ Delete a Threat
 
 .. image:: assets/Log_4.png
 
-- Click on "Threats" menu-item. 
+- Click on "Threats" menu-item.
 
 .. image:: assets/del_threat.png
 
@@ -74,6 +74,3 @@ Delete a Threat
 - Upon successful deleting of a threat the list of threats will be update it.
 
 .. image:: assets/del_threat_3.png
-
-    
-
