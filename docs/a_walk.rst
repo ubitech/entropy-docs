@@ -10,6 +10,8 @@ Create Account
 
 - Create account
 
+.. image:: assets/ENTROPY_log_2.png
+
 Login
 ------------
 
