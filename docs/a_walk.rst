@@ -6,8 +6,7 @@ Create Account
 
 - When a user access the MITIGATE site (https://http://hesso-entropy.euprojects.net//) the following screen is shown:
 
-(https://user-images.githubusercontent.com/17601358/33020750-0db4f2fe-ce08-11e7-8785-3f8dd7d6d285.png)
-
+.. image:: https://user-images.githubusercontent.com/17601358/33116585-02a8fe8e-cf6e-11e7-80e2-bcf7a1c68ae1.png
 
 - Create account
 
