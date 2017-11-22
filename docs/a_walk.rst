@@ -12,6 +12,24 @@ Create Account
 
 .. image:: assets/ENTROPY_log_2.png
 
+- step 2
+
+.. image:: assets/ENTROPY_cracc_3.png
+
+- step 3
+
+.. image:: assets/ENTROPY_cracc_4.png
+
+- step 4
+
+.. image:: assets/ENTROPY_cracc_5.png
+
+-step 5
+
+.. image:: assets/ENTROPY_cracc_6.png
+
+-Step 6
+
 Login
 ------------
 
