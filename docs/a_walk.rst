@@ -6,7 +6,7 @@ Create Account
 
 - When a user access the MITIGATE site (https://http://hesso-entropy.euprojects.net//) the following screen is shown:
 
-![entropy - google chrome_001](https://user-images.githubusercontent.com/17601358/33020750-0db4f2fe-ce08-11e7-8785-3f8dd7d6d285.png)
+(https://user-images.githubusercontent.com/17601358/33020750-0db4f2fe-ce08-11e7-8785-3f8dd7d6d285.png)
 
 
 - Create account
