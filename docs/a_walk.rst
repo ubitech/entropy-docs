@@ -35,11 +35,11 @@ Login
 
 - When a user access the MITIGATE site (https://http://hesso-entropy.euprojects.net//) the following screen is shown:
 
-.. image:: assets/Log.png
+.. image:: https://user-images.githubusercontent.com/17601358/33116585-02a8fe8e-cf6e-11e7-80e2-bcf7a1c68ae1.png
 
 - Click the <Log in> button .
 
-.. image:: assets/Log_1.png
+.. image:: assets/ENTROPY_log_2.png
 
 - Provide your login credentials and click the <SIGN IN> button.
 
