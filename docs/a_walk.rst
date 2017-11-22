@@ -24,11 +24,11 @@ Create Account
 
 .. image:: assets/ENTROPY_cracc_5.png
 
--step 5
+- step 5
 
 .. image:: assets/ENTROPY_cracc_6.png
 
--Step 6
+- Step 6
 
 Login
 ------------
