@@ -2,13 +2,9 @@
 Dashboard
 ========
 
-Declaring a new Threat
+Campaign Manager Dashboard
 --------
 
 
-Edit a Threat
+End User Dashboard
 --------
-
-
-Delete a Threat
-------------

@@ -1,7 +1,7 @@
-Business Partners Management
+Campaigns
 ==========================
 
-Add a Business Partner
+Create a new Campaign
 --------------------------------------
 
 - In order to declare a new Business partner several consecutive steps have to be undertaken .
@@ -31,7 +31,7 @@ Add a Business Partner
 .. image:: assets/bp.png
 
 
-Edit a Bussiness Partner
+Edit a Campaign
 --------------------------------------
 
 - In order to edit a  Bussiness partner several consecutive steps have to be undertaken .
@@ -53,7 +53,7 @@ Edit a Bussiness Partner
 .. image:: assets/bp.png
 
 
-Delete a Bussiness Partner
+Delete a Campaign
 --------------------------------------
 
 - In order to delete a Bussiness partner several consecutive steps have to be undertaken .
@@ -74,4 +74,5 @@ Delete a Bussiness Partner
 
 .. image:: assets/dp_3.png
 
-
+View a Campaign
+--------------------------------------

@@ -3,7 +3,7 @@ Account
 ========
 
 
-Update Profile
+Edit Profile
 --------
 
 - In order to declare a new xxxxx profile several consecutive steps have to be undertaken.
