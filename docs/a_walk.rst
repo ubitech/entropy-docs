@@ -4,7 +4,7 @@ Entropy walkthrough
 Create Account
 --------
 
-- When a user access the MITIGATE site (https://http://hesso-entropy.euprojects.net//) the following screen is shown:
+- When a user access the ENTROPY site (https://http://hesso-entropy.euprojects.net//) the following screen is shown:
 
 .. image:: https://user-images.githubusercontent.com/17601358/33116585-02a8fe8e-cf6e-11e7-80e2-bcf7a1c68ae1.png
 
@@ -33,7 +33,7 @@ Create Account
 Login
 ------------
 
-- When a user access the MITIGATE site (https://http://hesso-entropy.euprojects.net//) the following screen is shown:
+- When a user access the ENTROPY site (https://http://hesso-entropy.euprojects.net//) the following screen is shown:
 
 .. image:: https://user-images.githubusercontent.com/17601358/33116585-02a8fe8e-cf6e-11e7-80e2-bcf7a1c68ae1.png
 
@@ -63,9 +63,39 @@ Logout
 
 Reset password
 -------
+- In order to reset our existing password click the Reset Button.
 
+.. image:: assets/ENTROPY_reset_1.png
 
-Support
--------
+- Step 2
 
-If you are having issues, please do not hesitate to contact us (pgouvas@gmail.com).
+.. image:: assets/ENTROPY_reset_2.png
+
+- Step 3
+
+.. image:: assets/ENTROPY_reset_3.png
+
+- Step 4
+
+.. image:: assets/ENTROPY_reset_4.png
+
+- Step 5
+
+.. image:: assets/ENTROPY_reset_5.png
+
+- Step 6
+
+.. image:: assets/ENTROPY_reset_6.png
+
+- Step 7
+
+.. image:: assets/ENTROPY_reset_7.png
+
+- Step 8
+
+.. image:: assets/ENTROPY_reset_8.png
+
+- Step 9
+
+.. image:: assets/ENTROPY_reset_9.png
+
