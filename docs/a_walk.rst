@@ -43,11 +43,11 @@ Login
 
 - Provide your login credentials and click the <SIGN IN> button.
 
-.. image:: assets/Log_3.png
+.. image:: assets/ENTROPY_log_3.png
 
 - Upon successful authentication the following screen will be presented.
 
-.. image:: assets/Log_4.png
+.. image:: assets/ENTROPY_log_4.png
 
 
 Logout
@@ -55,11 +55,11 @@ Logout
 
 - In order to perform logout  click the <Log-out > Button.
 
-.. image:: assets/logout.png
+.. image:: assets/ENTROPY_logout.png
 
 - Upon successful logout the following screen will be presented.
 
-.. image:: assets/logout_2.png
+.. image:: https://user-images.githubusercontent.com/17601358/33116585-02a8fe8e-cf6e-11e7-80e2-bcf7a1c68ae1.png
 
 Reset password
 -------
