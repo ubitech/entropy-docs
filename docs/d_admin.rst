@@ -41,7 +41,6 @@ Visualize system Logs
 
 .. image:: assets/ENTROPY_sl.png
 
-- The campaign manager can access the apropriate system log.
+- The campaign manager can access the appropriate system log.
 
 .. image:: assets/ENTROPY_sl_2.png
-
