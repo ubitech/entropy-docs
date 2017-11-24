@@ -4,20 +4,44 @@ Admin
 
 Approve Campaign managers
 ------------
-- To edit a vulnerability, select it from the list and click on “Edit” button (pen icon).
+- In order to approve Campaign managers several consecutive steps have to be undertaken.
 
-.. image:: assets/epv.png
-.. image:: assets/epv_2.jpg
+- Initially the user must be login.
 
-- Please notice that all the fields in white can be modified (e.g. ID, CVSS score, access vector, authentication, access complexity, impact).
-Once you have made all changes you deem necessary, click **“Save”**.
+.. image:: assets/ENTROPY_cmdash.png
+
+- Click on "Admin" menu-item.
+
+.. image:: assets/ENTROPY_acm.png
+
+- Click on "approve" button.
+
+.. image:: assets/ENTROPY_acm_2.png
+
+- - Upon successful approve,the overall list of profiles will be update it.
+
+.. image:: assets/ENTROPY_acm_3.png
+
 
 
 Visualize system Logs
 ----------
 
-- To add a new vulnerability, click **“Vulnerabilies”** on the menu (left-hand side) and press **“Create new”** button.
+- In order to approve Campaign managers several consecutive steps have to be undertaken.
 
-.. image:: assets/zdv.jpg
+- Initially the user must be login.
 
-- Fill in the information required and then click **“Save”**.
+.. image:: assets/ENTROPY_cmdash.png
+
+- Click on "Admin" menu-item.
+
+.. image:: assets/ENTROPY_acm.png
+
+- Click on "System logs" menu-item.
+
+.. image:: assets/ENTROPY_sl.png
+
+- The campaign manager can access the apropriate system log.
+
+.. image:: assets/ENTROPY_sl_2.png
+
