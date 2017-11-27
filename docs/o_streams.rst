@@ -4,75 +4,57 @@ Streams
 
 Visualize streams
 -----------------------
-- In order to declare a new site several consecutive steps have to be undertaken .
+- In order to visualize a new stream several consecutive steps have to be undertaken .
 - Initially the user must login.
 
-.. image:: assets/Log_4.png
+.. image:: assets/ENTROPY_cmdash.png
 
-- Click on “Sites” menu-item.
+- Click on “Streams” menu-item.
 
-.. image:: assets/ss.png
+.. image:: assets/ENTROPY_stream.png
 
-- Click on "create new" button.
+- step 2.
 
-.. image:: assets/ss_1.png
-
-- Provide site details and push the “save” button.
-
-.. image:: assets/ss_2.png
-
-- Push the “save” button.
-
-.. image:: assets/ss_3.png
-
-- Upon successful creation of new site, the overall list of declare sites will be update it.
-
-.. image:: assets/ss_4.png
-
+.. image:: assets/ENTROPY_stream_2.png
 
 Start/stop stream
 ----------------------
 
-- In order to edit a site several consecutive steps have to be undertaken .
+- In order to Start/stop a stream several consecutive steps have to be undertaken .
 
 - Initially the user must login.
 
-.. image:: assets/Log_4.png
+.. image:: assets/ENTROPY_cmdash.png
 
-- Click on “Sites” menu-item.
+- Click on “Streams” menu-item.
 
-.. image:: assets/ss.png
+.. image:: assets/ENTROPY_stream_2.png
 
-- Press the “edit” button.
+- Click on “start” button.
 
-.. image:: assets/ed_2.png
+.. image:: assets/ENTROPY_stream_3.png
 
-- Apply the requirement changes in “Site Edit” panel, and click on the “Save” button.
+- Press the “pause” button.
 
-.. image:: assets/ds_3.png
-
-- Upon successful editing of a site the list of sites will be update it.
-
-.. image:: assets/ss.png
-
+.. image:: assets/ENTROPY_stream_4.png
 
 Visualize stream graph
 ----------------
 
-- In order to delete a site several consecutive steps have to be undertaken .
+- In order to Visualize stream graph several consecutive steps have to be undertaken .
 
 - Initially the user must login.
 
-.. image:: assets/Log_4.png
+.. image:: assets/ENTROPY_cmdash.png
 
-- Click on “Sites” menu-item.
+- Click on “Streams” menu-item.
 
-.. image:: assets/ss.png
+.. image:: assets/ENTROPY_stream.png
 
-- Press on “delete” button on the desired site.
+- Press on “graph” button on the desired stream.
 
-.. image:: assets/ds.png
+.. image:: assets/ENTROPY_stream_7.png
 
-- Upon successful delete of a site, the list of sites will be update it.
+- Upon successful selection,the desired stream graph can be viewed.
 
-.. image:: assets/ds_2.png
+.. image:: assets/ENTROPY_stream_5.png
