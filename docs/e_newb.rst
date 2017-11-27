@@ -8,19 +8,23 @@ Register a new Building Area
 - In order to search the vendor list several consecutive steps have to be undertaken .
 - Initially the user must login.
 
-.. image:: assets/Log_4.png
+.. image:: assets/ENTROPY_cmdash.png
 
-- Click on "Vendors" Menu-item.
+- Click on "Areas" Menu-item.
 
-.. image:: assets/vl.png
+.. image:: assets/ENTROPY_newera.png
 
-- Provide vendor details in the prompted text box and click on preferred vendor from prompted dropdown list.
+- Click on "New Areas" button.
 
-.. image:: assets/vl_2.png
+.. image:: assets/ENTROPY_newera_2.png
 
-- Upon succesful search, the preferred vendor appears in vendor management list.
+- Provide the new area details and click on "Save" button.
 
-.. image:: assets/vl_3.png
+.. image:: assets/ENTROPY_newera_3.png
+.. image:: assets/ENTROPY_newera_4.png
+
+- Upon succesful addition, the new area  appears in area list.
+
 
 
 Edit a Building Area
@@ -28,27 +32,22 @@ Edit a Building Area
 - In add a vendor several consecutive steps have to be undertaken .
 - Initially the user must login.
 
-.. image:: assets/Log_4.png
+.. image:: assets/ENTROPY_cmdash.png
 
-- Click on "Vendors" Menu-item.
+- Click on "Areas" Menu-item.
 
-.. image:: assets/vl.png
+.. image:: assets/ENTROPY_newera.png
 
-- Click on “Create New” button.
+ Click on "EDIT" button.
 
-.. image:: assets/ed_v.png
+.. image:: assets/ENTROPY_addera_2.png
 
-- Provide vendor details in textbox area.
+- Provide the edit area details and click on "Save" button.
 
-.. image:: assets/ed_v_1.png
+.. image:: assets/ENTROPY_addera_2.png
+.. image:: assets/ENTROPY_addera_3.png
 
-- Click on the “Save” button.
-
-.. image:: assets/ed_v_2.png
-
-- Upon successful addition of a vendor, the list of vendors will be update it.
-
-.. image:: assets/ed_v_2.png
+- Upon succesful editing, the modifidied area appears in the list.
 
 Delete Building Area
 ------------
@@ -56,12 +55,14 @@ Delete Building Area
 - In order to edit a vendor several consecutive steps have to be undertaken .
 - Initially the user must login.
 
-.. image:: assets/Log_4.png
+.. image:: assets/ENTROPY_cmdash.png
 
-- Click on "Vendors" Menu-item.
+- Click on "Areas" Menu-item.
 
-.. image:: assets/vl.png
+.. image:: assets/ENTROPY_newera.png
 
-- Press the “edit” button.
+- Click on "DELETE" button.
 
-.. image:: assets/ev_1.png
+.. image:: assets/ENTROPY_delera.png
+
+- Upon succesful delete of the selected area,the area list will be modified.
