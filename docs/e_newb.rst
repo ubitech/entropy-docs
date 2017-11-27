@@ -14,7 +14,7 @@ Register a new Building Area
 
 .. image:: assets/ENTROPY_newera.png
 
-- Click on "New Areas" button.
+- Click on "New Area" button.
 
 .. image:: assets/ENTROPY_newera_2.png
 
@@ -40,7 +40,7 @@ Edit a Building Area
 
 - Click on "EDIT" button.
 
-.. image:: assets/ENTROPY_addera_2.png
+.. image:: assets/ENTROPY_addera.png
 
 - Provide the edit area details and click on "Save" button.
 
