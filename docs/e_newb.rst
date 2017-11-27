@@ -5,7 +5,7 @@ Register a new Building area
 Register a new Building Area
 ------------------------
 
-- In order to search the vendor list several consecutive steps have to be undertaken .
+- In order register a new building area several consecutive steps have to be undertaken .
 - Initially the user must login.
 
 .. image:: assets/ENTROPY_cmdash.png
@@ -29,7 +29,7 @@ Register a new Building Area
 
 Edit a Building Area
 ------------
-- In add a vendor several consecutive steps have to be undertaken .
+- In order to edit an existing building area consecutive steps have to be undertaken .
 - Initially the user must login.
 
 .. image:: assets/ENTROPY_cmdash.png
@@ -38,7 +38,7 @@ Edit a Building Area
 
 .. image:: assets/ENTROPY_newera.png
 
- Click on "EDIT" button.
+- Click on "EDIT" button.
 
 .. image:: assets/ENTROPY_addera_2.png
 
@@ -52,7 +52,7 @@ Edit a Building Area
 Delete Building Area
 ------------
 
-- In order to edit a vendor several consecutive steps have to be undertaken .
+- In order to delete a building area several consecutive steps have to be undertaken .
 - Initially the user must login.
 
 .. image:: assets/ENTROPY_cmdash.png
