@@ -1,11 +1,12 @@
 ============
  Analytics
 ============
- Algorithm
+ 
+Algorithm
 ------------
- Register a new algorithm
- -------------------------
-
+ 
+**Register a new algorithm**
+ 
 - In order to register a new algorithm several consecutive steps have to be undertaken .
 - Initially the user must login.
 
@@ -19,7 +20,7 @@
 
 .. image:: assets/ENTROPY_newalg_2.png
 
-- Click on "New Algorithms" button.
+- Click on "New Algorithm" button.
 
 .. image:: assets/ENTROPY_newalg_3.png
 
@@ -33,8 +34,8 @@
 
 - You have successfully create new algorithm. View a registered algorithm
 
-View a registered algorithm
--------------------------
+**View a registered algorithm**
+
 - In order to view a registered algorithm several consecutive steps have to be undertaken .
 - Initially the user must login.
 
@@ -56,9 +57,8 @@ View a registered algorithm
 
 .. image:: assets/ENTROPY_valg_3.png
 
- Delete an algorithm
- -------------------
-
+**Delete an algorithm**
+ 
 - In order to delete a registered algorithm several consecutive steps have to be undertaken .
 - Initially the user must login.
 
@@ -78,13 +78,11 @@ View a registered algorithm
 
 - You have successfully delete the selected algorithm.
 
-
- Algorithm Template
+Algorithm Template
  ----------------------
 
- Create a new algorithm template
- --------------------------------
-
+ **Create a new algorithm template**
+ 
 - In order to create a new algorithm template consecutive steps have to be undertaken .
 - Initially the user must login.
 
@@ -112,8 +110,7 @@ View a registered algorithm
 
 - You have successfully create new algorithm template.
 
-View an algorithm template
------------------------------
+**View an algorithm template**
 
 - In order to view an algorithm template several consecutive steps have to be undertaken .
 - Initially the user must login.
@@ -136,8 +133,7 @@ View an algorithm template
 
 .. image:: assets/ENTROPY_vat_2.png
 
-Delete an algorithm template
-----------------------------
+**Delete an algorithm template**
 
 - In order to delete an algorithm template several consecutive steps have to be undertaken .
 - Initially the user must login.
@@ -158,9 +154,8 @@ Delete an algorithm template
 
 - You have successfully delete the selected algorithm template.
 
-Execute an algorithm template
- ------------------------------
-
+**Execute an algorithm template**
+ 
 - In order to execute an algorithm template several consecutive steps have to be undertaken .
 - Initially the user must login.
 
@@ -180,13 +175,11 @@ Execute an algorithm template
 
 - You have successfully execute the selected algorithm template.
 
-
 Analytic process
- -----------------
+------------------
 
- View an analytic process
- ------------------------
-
+**View an analytic process**
+ 
 - In order to view an algorithm template several consecutive steps have to be undertaken .
 - Initially the user must login.
 
@@ -208,8 +201,7 @@ Analytic process
 
 .. image:: assets/ENTROPY_vat_3.png
 
-Delete an analytic process
----------------------------
+**Delete an analytic process**
 
 - In order to delete  an analytic process several consecutive steps have to be undertaken .
 - Initially the user must login.
