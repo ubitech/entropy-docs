@@ -21,7 +21,7 @@ Create a new query
 
 - Provide now query details such us (Observation Values from data sensor streams, User, Etc)
 
-..image:: assets/ENTROPY_query_4.png
+.. image:: assets/ENTROPY_query_4.png
 
 - Click on "Save Query" button.
 
