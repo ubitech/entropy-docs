@@ -79,7 +79,7 @@ Algorithm
 - You have successfully delete the selected algorithm.
 
 Algorithm Template
- ----------------------
+----------------------
 
  **Create a new algorithm template**
  
