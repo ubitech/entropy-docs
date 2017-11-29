@@ -32,8 +32,7 @@ Algorithm
 
 .. image:: assets/ENTROPY_newalg_5.png
 
-- You have successfully create new algorithm. View a registered algorithm
-
+- You have successfully create new algorithm.
 **View a registered algorithm**
 
 - In order to view a registered algorithm several consecutive steps have to be undertaken .
@@ -53,7 +52,7 @@ Algorithm
 
 .. image:: assets/ENTROPY_valg_2.png
 
-- The registered algorithm appears in the platform.
+- The registered algorithm details appears in the platform.
 
 .. image:: assets/ENTROPY_valg_3.png
 
@@ -81,7 +80,7 @@ Algorithm
 Algorithm Template
 ----------------------
 
- **Create a new algorithm template**
+**Create a new algorithm template**
  
 - In order to create a new algorithm template consecutive steps have to be undertaken .
 - Initially the user must login.
