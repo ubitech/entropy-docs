@@ -102,7 +102,7 @@ Recommendation Template
 
 **View list of recommendation Template**
 
-- In order to view a recommendation template list several consecutive steps have to be undertaken .
+- In order to view a recommendation template list several consecutive steps have to be undertaken.
 - Initially the user must login.
 
 .. image:: assets/ENTROPY_cmdash.png
