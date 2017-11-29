@@ -71,7 +71,7 @@ Recommendation Template
 
 - Provide recommendation template details such us (friendly name,type,message, etc.)
 
-.. image:: assets/ENTROPY_ert_2.png
+.. image:: assets/ENTROPY_ert_2_.png
 
 - Click on "SAVE" button.
 
