@@ -8,71 +8,80 @@ Create a new Campaign
 
 - Initially the user must login.
 
-.. image:: assets/Log_4.png
+.. image:: assets/ENTROPY_cmdash.png
 
-- Click on ‘’Business partners’’ menu-item.
+- Click on ‘’Campaign Evaluation’’ menu-item.
 
-.. image:: assets/bp.png
+.. image:: assets/ENTROPY_cnc.png
 
-- Click on “Create New” button.
+- Click on “New Evaluation” button.
 
-.. image:: assets/bp_2.png
+.. image:: assets/ENTROPY_cnc_2.png
 
-- Provide Business partner details.
+- Provide new Campaign details and click on "SAVE" button.
 
-.. image:: assets/bp_3.png
+.. image:: assets/ENTROPY_cnc_3.png
 
-- Click on the “Save” button.
-
-.. image:: assets/bp_3.png
-
-- Upon succesful declaration of the new business partner  the list of declare business partners  will be update it.
-
-.. image:: assets/bp.png
-
+- Upon successful declaration of the new campaign the list of campaign evaluation  will be update it.
 
 Edit a Campaign
 --------------------------------------
 
-- In order to edit a  Bussiness partner several consecutive steps have to be undertaken .
+- In order to edit a Campaign several consecutive steps have to be undertaken .
 
 - Initially the user must login.
 
-.. image:: assets/Log_4.png
+.. image:: assets/ENTROPY_cmdash.png
 
-- Click on ‘’Business partners’’ menu-item.
+- Click on ‘’Campaign Evaluation’’ menu-item.
 
-.. image:: assets/bp.png
+.. image:: assets/ENTROPY_cnc.png
 
-- Press the “edit” button.
+- Press the “edit” button (pencil object).
 
-.. image:: assets/ebp.png
+.. image:: assets/ENTROPY_enc.png
 
-- Upon succesful editing of the  business partner , the list of declare business partners  will be update it.
+- Upon successful editing of the campaign , the list of declare campaigns will be update it.
 
-.. image:: assets/bp.png
-
+.. image:: assets/ENTROPY_enc_2.png
 
 Delete a Campaign
 --------------------------------------
 
-- In order to delete a Bussiness partner several consecutive steps have to be undertaken .
+- In order to delete a Campaign several consecutive steps have to be undertaken .
 
 - Initially the user must login.
 
-.. image:: assets/Log_4.png
+.. image:: assets/ENTROPY_cmdash.png
 
-- Click on ‘’Business partners’’ menu-item.
+- Click on ‘’Campaign Evaluation’’ menu-item.
 
-.. image:: assets/bp.png
+.. image:: assets/ENTROPY_cnc.png
 
-- Press on “delete” button on the desired threat.
+- Press on “delete” button on the desired campaign.
 
-.. image:: assets/dp_2.png
+.. image:: assets/ENTROPY_dnc.png
 
-- Upon successful deleting of a business partner the list of business partners will be update it.
+- Upon successful deletion of a desired campaign the list of campaigns will be update it.
 
-.. image:: assets/dp_3.png
+.. image:: assets/ENTROPY_dnc_2.png
 
 View a Campaign
 --------------------------------------
+- In order to delete a Campaign several consecutive steps have to be undertaken .
+
+- Initially the user must login.
+
+.. image:: assets/ENTROPY_cmdash.png
+
+- Click on ‘’Campaign Evaluation’’ menu-item.
+
+.. image:: assets/ENTROPY_cnc.png
+
+- Press on “view” button (eye object) on the desired campaign.
+
+.. image:: assets/ENTROPY_vnc.png
+
+- You can review campaign statistics such us user metrics,work engagement,etc.
+
+.. image:: assets/ENTROPY_vnc_2.png
