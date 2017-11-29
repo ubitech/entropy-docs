@@ -4,7 +4,7 @@ Streams
 
 Visualize streams
 -----------------------
-- In order to visualize a new stream several consecutive steps have to be undertaken .
+- In order to visualize a stream several consecutive steps have to be undertaken .
 - Initially the user must login.
 
 .. image:: assets/ENTROPY_cmdash.png
@@ -13,7 +13,7 @@ Visualize streams
 
 .. image:: assets/ENTROPY_stream.png
 
-- step 2.
+- The campaign manager can access the appropriate stream   .
 
 .. image:: assets/ENTROPY_stream_2.png
 
@@ -30,11 +30,11 @@ Start/stop stream
 
 .. image:: assets/ENTROPY_stream_2.png
 
-- Click on “start” button.
+- Click on “start” button to start a stream.
 
 .. image:: assets/ENTROPY_stream_3.png
 
-- Press the “pause” button.
+- Press the “pause” button to stom a stream.
 
 .. image:: assets/ENTROPY_stream_4.png
 

@@ -23,7 +23,7 @@ Register a new Building Area
 .. image:: assets/ENTROPY_newera_3.png
 .. image:: assets/ENTROPY_newera_4.png
 
-- Upon succesful addition, the new area  appears in area list.
+- Upon successful addition, the new area  appears in area list.
 
 
 
@@ -47,7 +47,7 @@ Edit a Building Area
 .. image:: assets/ENTROPY_addera_2.png
 .. image:: assets/ENTROPY_addera_3.png
 
-- Upon succesful editing, the modifidied area appears in the list.
+- Upon successful editing, the modified area appears in the list.
 
 Delete Building Area
 ------------
@@ -65,4 +65,4 @@ Delete Building Area
 
 .. image:: assets/ENTROPY_delera.png
 
-- Upon succesful delete of the selected area,the area list will be modified.
+- Upon successful delete of the selected area,the area list will be modified.

@@ -8,27 +8,27 @@ Create Account
 
 .. image:: https://user-images.githubusercontent.com/17601358/33116585-02a8fe8e-cf6e-11e7-80e2-bcf7a1c68ae1.png
 
-- Create account
+- Click on login button.
 
 .. image:: assets/ENTROPY_log_2.png
 
-- step 2
+- Click on "Create Account" button.
 
 .. image:: assets/ENTROPY_cracc_3.png
 
-- step 3
+- Provide account information and click on "CREATE ACCOUNT" button.
 
 .. image:: assets/ENTROPY_cracc_4.png
 
-- step 4
+- Go to your email and click on ENTROPY account information link.
 
 .. image:: assets/ENTROPY_cracc_5.png
 
-- step 5
+- Complete the ENTROPY Questionnaire.
 
 .. image:: assets/ENTROPY_cracc_6.png
 
-- Step 6
+- You have successfully Create an New Account.
 
 Login
 ------------
@@ -67,35 +67,36 @@ Reset password
 
 .. image:: assets/ENTROPY_reset_1.png
 
-- Step 2
+- Click on "RESET" button.
 
 .. image:: assets/ENTROPY_reset_2.png
 
-- Step 3
+- An Email has been send to your associate email account.
 
 .. image:: assets/ENTROPY_reset_3.png
 
-- Step 4
+- Go to your email and click on ENTROPY reset account link.
 
 .. image:: assets/ENTROPY_reset_4.png
 
-- Step 5
+- Login again to Entropy.
 
 .. image:: assets/ENTROPY_reset_5.png
 
-- Step 6
+- Use your temporarily password.
 
 .. image:: assets/ENTROPY_reset_6.png
 
-- Step 7
+- Click on "Account" menu-item.
 
 .. image:: assets/ENTROPY_reset_7.png
 
-- Step 8
+- Click on "Change password" button.
 
 .. image:: assets/ENTROPY_reset_8.png
 
-- Step 9
+- Provide your new password and click on "SAVE" button.
 
 .. image:: assets/ENTROPY_reset_9.png
 
+- Your password has successfully reset and updated.

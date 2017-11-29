@@ -18,7 +18,7 @@ Approve Campaign managers
 
 .. image:: assets/ENTROPY_acm_2.png
 
-- - Upon successful approve,the overall list of profiles will be update it.
+- Upon successful approve,the overall list of profiles will be update it.
 
 .. image:: assets/ENTROPY_acm_3.png
 
@@ -27,7 +27,7 @@ Approve Campaign managers
 Visualize system Logs
 ----------
 
-- In order to approve Campaign managers several consecutive steps have to be undertaken.
+- In order to visualize system logs several consecutive steps have to be undertaken.
 
 - Initially the user must be login.
 

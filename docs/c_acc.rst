@@ -16,7 +16,7 @@ Edit Profile
 
 .. image:: assets/ENTROPY_editacc_1.png
 
-- Click on edit profile button.
+- Click on "edit profile" button.
 
 .. image:: assets/ENTROPY_editacc_2.png
 

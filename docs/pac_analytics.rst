@@ -1,12 +1,12 @@
 ============
  Analytics
 ============
- 
+
 Algorithm
 ------------
- 
+
 **Register a new algorithm**
- 
+
 - In order to register a new algorithm several consecutive steps have to be undertaken .
 - Initially the user must login.
 
@@ -57,7 +57,7 @@ Algorithm
 .. image:: assets/ENTROPY_valg_3.png
 
 **Delete an algorithm**
- 
+
 - In order to delete a registered algorithm several consecutive steps have to be undertaken .
 - Initially the user must login.
 
@@ -81,7 +81,7 @@ Algorithm Template
 ----------------------
 
 **Create a new algorithm template**
- 
+
 - In order to create a new algorithm template consecutive steps have to be undertaken .
 - Initially the user must login.
 
@@ -154,7 +154,7 @@ Algorithm Template
 - You have successfully delete the selected algorithm template.
 
 **Execute an algorithm template**
- 
+
 - In order to execute an algorithm template several consecutive steps have to be undertaken .
 - Initially the user must login.
 
@@ -178,7 +178,7 @@ Analytic process
 ------------------
 
 **View an analytic process**
- 
+
 - In order to view an algorithm template several consecutive steps have to be undertaken .
 - Initially the user must login.
 

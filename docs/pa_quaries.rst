@@ -27,7 +27,7 @@ Create a new query
 
 .. image:: assets/ENTROPY_query_3.png
 
-- Upon succesful addition, the new area  appears in area list.
+- Upon successful addition, the new query  appears in list.
 
 
 Edit a query
@@ -82,7 +82,7 @@ Delete a query
 
 .. image:: assets/ENTROPY_query.png
 
-- Click on Delete Query button.
+- Click on delete Query button.
 
 .. image:: assets/ENTROPY_query_8.png
 
