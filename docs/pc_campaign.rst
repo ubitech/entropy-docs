@@ -4,7 +4,7 @@ Campaigns
 Create a new Campaign
 --------------------------------------
 
-- In order to declare a new Business partner several consecutive steps have to be undertaken .
+- In order to create a new campaign several consecutive steps have to be undertaken .
 
 - Initially the user must login.
 
@@ -60,7 +60,7 @@ Delete a Campaign
 
 - Press on “delete” button on the desired campaign.
 
-.. image:: assets/ENTROPY_dnc.png
+.. image:: assets/ENTROPY_dnc_.png
 
 - Upon successful deletion of a desired campaign the list of campaigns will be update it.
 
