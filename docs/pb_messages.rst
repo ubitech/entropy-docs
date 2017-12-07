@@ -5,7 +5,7 @@ Messages
 View list of generated recommendation messages
 ------------
 
-- Inn order to view the list of generated recommendation messages  several consecutive steps have to be undertaken .
+- In order to view the list of generated recommendation messages  several consecutive steps have to be undertaken .
 - Initially the user must login.
 
 .. image:: assets/ENTROPY_cmdash.png
