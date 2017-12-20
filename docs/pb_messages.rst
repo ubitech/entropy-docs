@@ -2,6 +2,18 @@
 Messages
 ========
 
+Via the Messages menu tabs you can orchestrate the conditions upon which the personalized recommendations are triggered.
+
+In short, during the definition of a recommendation template, the campaign manager is able to declare the points to be given to the end user as well as the associated badge (if any) and the percentage of the badge to be received. The percentage of the badge is given only if the total points associated with this recommendation are given to the end user.
+
+Then, in the definition of rules for triggering the sending of a recommendation, the campaign manager is able to define whether the recommendation is validatable or not as well as if it is validatable by an action. In the last case, rules for validation have also to be provided.
+
+Upon the consumption of the recommendations, during the receipt of feedback messages, the set of points to be allocated to the user are provided by the apps through an API. Then, calculation of total score, ranking and percentage of badges achieved is also made available trhough an API.
+
+The following figure shows the overall process.
+
+.. image:: assets/ENTROPY_recommendations_and_scoring_workflow.png
+
 View list of generated recommendation messages
 ------------
 
