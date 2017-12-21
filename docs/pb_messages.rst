@@ -14,6 +14,7 @@ The following figure shows the overall process.
 
 .. image:: assets/ENTROPY_recommendations_and_scoring_workflow.png
 
+
 View list of generated recommendation messages
 ------------
 
@@ -156,6 +157,10 @@ Recommendation Rule
 - Provide rules details such us (description,target users,etc.)
 
 .. image:: assets/ENTROPY_crr_3.png
+
+Defining the target users conditions can make the recomendation messages be personalized. End users demografic data, their behavioural properties and their responsiveness to previous recommendations are some of the conditions that may afect the recommendation send to them. Following figure depicts the workflow towards generating personalized content.
+
+.. image:: assets/ENTROPY_personalized_recommendation.png
 
 - Click on "SAVE" button.
 
