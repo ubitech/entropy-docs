@@ -20,12 +20,18 @@ Register a new Building Area
 
 - Provide the new area details and click on "Save" button.
 In order to get information about the energy waste of you building you should providing data for (see attached figure):
+
 - the global energy performance (as made available in the energy certificate) in kWh/m3
+
 - the heating energy performance (as made available in the energy certificate) in kWh/m3
+
 - the cooling energy performance (as made available in the energy certificate) in kWh/m3
+
 - the heating degree days for the previous year (e.g. 2017) as made available by wunderground.com (e.g. https://www.wunderground.com/history/airport/LERI/2018/4/30/CustomHistory.html?req_city=Murcia&req_statename=Spain&reqdb.zip=00000&reqdb.magic=248&reqdb.wmo=08429)
+
 - the cooling degree days for the previous year (e.g. 2017) as made available by wunderground.com
 Such data is used towards the calculation of the Heat Transfer Coefficient, as well as the estimated need for power for heating/cooling at each period of time.
+
 
 
 .. image:: assets/areas_energy_certificates.png
