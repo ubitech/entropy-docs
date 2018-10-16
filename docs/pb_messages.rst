@@ -162,6 +162,8 @@ Defining the target users conditions can make the recomendation messages be pers
 
 .. image:: assets/ENTROPY_personalized_recommendation.png
 
+The property "hasSelfDeterministicMotivation" fits the option 2 of the above figure. Each user has a percentage of intrisic and extrinsic motivation. For example "user A" can be 20% intrinsic and 80%  extrinsic. This means that will receive an intrinsic message with a probability of 20% and an extrinsic with a propability of 80%. If the users receives 10 messages it is very probable to get 2 Intrinsic messages and 8 Extrinsic.
+
 - Click on "SAVE" button.
 
 .. image:: assets/ENTROPY_crr_4.png
